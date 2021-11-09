@@ -1,5 +1,9 @@
-# Multiple-Linear-Regression-in-Python-Pandas-MatPlotLib-NumPy-SkLearn-
+# Multiple Linear Regression in Python
 Based on Udemy course project
 
-Python program that analyzes salaries, performs multiple linear regression with Python libraries and graphs the results
+Analyzes CSV file data, predicts values of test set, and graphs the error
+
+Built on code taught in Machine Learning Udemy course by Kirill Eremenko https://www.udemy.com/course/machinelearning/
+
+
 
